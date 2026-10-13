@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "tools": [
+    {
+      "id": "beacn-view",
+      "name": "BEACN View",
+      "repository": "https://github.com/BEACNLabs/beacn-view",
+      "description": "Self-hosted screen capture host, browser viewer and read-only MCP bridge.",
+      "license": "MIT",
+      "stage": "early-release",
+      "capabilities": ["screen-observation", "browser-viewer", "multi-monitor", "region-capture", "mcp"],
+      "validation": "https://github.com/BEACNLabs/beacn-view/blob/main/docs/VALIDATION.md"
+    }
+  ]
+}
